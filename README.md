@@ -4,7 +4,7 @@ Bu program, arkadaş grupları için akşam yemeği hazırlama sırasını belir
 
 This program is a multilingual (Turkish/English) Python application designed to determine the dinner preparation rotation for groups of friends. It features a user-friendly interface created using Tkinter.
 
-## Özellikler / Features
+## 🍽️ Özellikler / Features
 
 - Arkadaş ekleme / Add friends
 - Rastgele kura çekme / Random draw
@@ -12,12 +12,12 @@ This program is a multilingual (Turkish/English) Python application designed to 
 - Günlük sorumlu kişiyi görüntüleme / View the person responsible for the day
 - Türkçe ve İngilizce dil desteği / Turkish and English language support
 
-## Gereksinimler / Requirements
+## 🍽️ Gereksinimler / Requirements
 
 - Python 3.x
 - Tkinter (genellikle Python ile birlikte gelir / usually comes with Python)
 
-## Kurulum / Installation
+## 🍽️ Kurulum / Installation
 
 1. Bu repository'yi klonlayın / Clone this repository:
    ```
@@ -28,7 +28,7 @@ This program is a multilingual (Turkish/English) Python application designed to 
    cd automated-dinner-rotation-system
    ```
 
-## Kullanım / Usage
+## 🍽️ Kullanım / Usage
 
 Programı çalıştırmak için terminal veya komut istemcisinde şu komutu kullanın / To run the program, use the following command in your terminal or command prompt:
 
@@ -36,14 +36,14 @@ Programı çalıştırmak için terminal veya komut istemcisinde şu komutu kull
 python automated_dinner_rotation_system.py
 ```
 
-## Nasıl Kullanılır / How to Use
+## 🍽️ Nasıl Kullanılır / How to Use
 
 1. "Arkadaş Ekle" / "Add Friend" butonuna tıklayarak arkadaşlarınızı listeye ekleyin.
 2. En az iki arkadaş eklendikten sonra "Kura Çek" / "Draw" butonuna tıklayarak rastgele bir sıra oluşturun.
 3. "Bugün Kim?" / "Who's Today?" butonuna tıklayarak günün sorumlusunu öğrenin.
 4. Dili değiştirmek için "Change to English" / "Türkçe'ye Geç" butonunu kullanın.
 
-## Katkıda Bulunma / Contributing
+## 🍽️ Katkıda Bulunma / Contributing
 
 1. Bu repository'yi fork edin / Fork this repository
 2. Yeni bir branch oluşturun / Create a new branch (`git checkout -b feature/AmazingFeature`)
@@ -51,13 +51,13 @@ python automated_dinner_rotation_system.py
 4. Branch'inizi push edin / Push to the branch (`git push origin feature/AmazingFeature`)
 5. Bir Pull Request oluşturun / Create a Pull Request
 
-## Lisans / License
+## 🍽️ Lisans / License
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için 'LICENSE' dosyasına bakınız.
 
 This project is licensed under the MIT License. See the 'LICENSE' file for details.
 
-## İletişim / Contact
+## 🍽️ İletişim / Contact
 
 Proje Sahibi / Project Owner: Mert Can Akdoğan
 
