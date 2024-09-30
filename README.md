@@ -1,4 +1,4 @@
-# Otomatik Akşam Yemeği Rotasyon Sistemi / Automated Dinner Rotation System
+# 🍽️ Otomatik Akşam Yemeği Rotasyon Sistemi / Automated Dinner Rotation System
 
 Bu program, arkadaş grupları için akşam yemeği hazırlama sırasını belirlemek üzere tasarlanmış çok dilli (Türkçe/İngilizce) bir Python uygulamasıdır. Tkinter kullanılarak oluşturulan kullanıcı dostu bir arayüze sahiptir.
 
